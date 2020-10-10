@@ -1,0 +1,7 @@
+C:\Users\vaniuhan\source\repos\MZI_2\obj\Debug\MZI_2.csprojAssemblyReference.cache
+C:\Users\vaniuhan\source\repos\MZI_2\obj\Debug\MZI_2.csproj.CoreCompileInputs.cache
+C:\Users\vaniuhan\source\repos\MZI_2\bin\Debug\MZI_2.exe.config
+C:\Users\vaniuhan\source\repos\MZI_2\bin\Debug\MZI_2.exe
+C:\Users\vaniuhan\source\repos\MZI_2\bin\Debug\MZI_2.pdb
+C:\Users\vaniuhan\source\repos\MZI_2\obj\Debug\MZI_2.exe
+C:\Users\vaniuhan\source\repos\MZI_2\obj\Debug\MZI_2.pdb
