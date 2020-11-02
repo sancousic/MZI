@@ -1,0 +1,7 @@
+C:\Users\vaniuhan\source\repos\MZI_3\bin\Debug\MZI_3.exe.config
+C:\Users\vaniuhan\source\repos\MZI_3\bin\Debug\MZI_3.exe
+C:\Users\vaniuhan\source\repos\MZI_3\bin\Debug\MZI_3.pdb
+C:\Users\vaniuhan\source\repos\MZI_3\obj\Debug\MZI_3.csprojAssemblyReference.cache
+C:\Users\vaniuhan\source\repos\MZI_3\obj\Debug\MZI_3.csproj.CoreCompileInputs.cache
+C:\Users\vaniuhan\source\repos\MZI_3\obj\Debug\MZI_3.exe
+C:\Users\vaniuhan\source\repos\MZI_3\obj\Debug\MZI_3.pdb
